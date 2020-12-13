@@ -1,0 +1,23 @@
+@import "common/variables";
+
+/** Import everything from autoload */
+@import "./autoload/**/*";
+
+/** Import npm dependencies  */
+@import "~slick-carousel/slick/slick.css";
+
+/** Import theme styles */
+@import "common/global";
+@import "components/typography";
+@import "components/buttons";
+@import "components/comments";
+@import "components/forms";
+@import "components/navigation";
+@import "components/wp-classes";
+@import "layouts/header";
+@import "layouts/sidebar";
+@import "layouts/footer";
+@import "layouts/pages";
+@import "layouts/posts";
+@import "layouts/tinymce";
+@import "blocks/home-header";

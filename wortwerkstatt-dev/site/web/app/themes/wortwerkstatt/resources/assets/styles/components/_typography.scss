@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "SourceSansPro-Regular";
+  src: url("../fonts/SourceSansPro-Regular.eot");
+  src: url("../fonts/SourceSansPro-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/SourceSansPro-Regular.woff2") format("woff2"), url("../fonts/SourceSansPro-Regular.woff") format("woff"), url("../fonts/SourceSansPro-Regular.ttf") format("truetype"), url("../fonts/SourceSansPro-Regular.svg#Lato-Regular") format("svg");
+}
+
+h1 {
+  font-family: SourceSansPro-Regular, sans-serif;
+  font-size: 61px;
+  font-weight: normal;
+  font-stretch: normal;
+}
